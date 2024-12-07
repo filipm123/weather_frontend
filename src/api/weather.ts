@@ -32,7 +32,6 @@ export const getDailyWeather = async (
   }
 };
 
-// Function to fetch weekly weather summary data
 export const getWeeklySummary = async (
   latitude: number,
   longitude: number
