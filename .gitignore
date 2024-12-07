@@ -13,6 +13,9 @@
 /.next/
 /out/
 
+# env variabes
+.env
+
 # production
 /build
 
